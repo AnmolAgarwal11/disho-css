@@ -200,15 +200,15 @@ p {
 }
 
 .card-body.oils {
-    background-image: url(/images/oils.png);
+    background-image: url("https://i.postimg.cc/g2CJc8qx/oils.png");
 }
 
 .card-body.pulses {
-    background-image: url(/images/pulses.png);
+    background-image: url("https://i.postimg.cc/Y0r6dkCH/pulses.png");
 }
 
 .card-body.tomatoes {
-    background-image: url(/images/tomatoes.png);
+    background-image: url("https://i.postimg.cc/8CjbqSXD/tomatoes.png");
 }
 
 
